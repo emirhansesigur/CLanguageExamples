@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-// 2 sayýyý bir fonksyonun içinde karþýlaþtýrma ve kuçük olaný char yapýsý halinde main içine gönderme.
 
 int *buyukbul(double *dizi)
 {
