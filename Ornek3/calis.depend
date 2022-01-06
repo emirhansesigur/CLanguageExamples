@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641385326 source:c:\users\lenovo\desktop\proje\calis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
